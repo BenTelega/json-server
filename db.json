@@ -1,4 +1,11 @@
 {
+    "categories": [
+      {
+        "name": "City Tours",
+        "image": "https://cdn.vuetifyjs.com/images/cards/sunshine.jpg"
+      }
+    ],
+  
   "posts": [
     {
       "id": 1,
